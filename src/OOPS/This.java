@@ -3,6 +3,8 @@ package OOPS;
 public class This {
     // tham chieu toi bien insstance cua lop hien tai, neu trung ten voi constructor
     // goi constructor cua lop hien tai
+    //goi phuong thuc cua lop hien tai
+
     int id;
     String name;
     String city;
