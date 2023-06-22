@@ -1,6 +1,6 @@
 package OOPS;
 
-public class Honda extends Bike{
+public class Honda extends Phuongtien{
     @Override
     void run() {
         System.out.println("di bang may");
