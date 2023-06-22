@@ -8,13 +8,14 @@ public class VDbreak {
             // the for loop is labeled as second
             second:
             for(int j = 1; j < 3; j ++ ) {
-                if ( i == 2)
-                    break second;
+                if ( j == 2)
+                    break first;
                 System.out.println("i = " + i + "; j = " +j);
 
                 // the break statement terminates the loop labeled as second
 
             }
         }
+        System.out.println("ngom");
     }
 }
